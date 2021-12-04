@@ -1,6 +1,5 @@
 # osu! web
-
-A browser rhythm game where you click circles on the screen, following rhythm of the music.
+al you need to know is this is for project and that all of this code is not mine
 
 Powered by [PixiJS](https://www.pixijs.com), [Sayobot](https://osu.sayobot.cn).
 

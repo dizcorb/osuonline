@@ -11,7 +11,7 @@ Note: This is an unofficial implementation of [osu!](https://osu.ppy.sh). Scorin
 
 web page:
 
-![webpage](screenshots/page3.jpg)
+![webpage](https://cdn.discordapp.com/attachments/816074973990486026/916787780615565393/unknown.png)
 
 game in action:
 
